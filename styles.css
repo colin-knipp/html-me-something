@@ -1,0 +1,33 @@
+#centerText {
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    width: 65%;
+    justify-content: left;
+}
+
+div {
+    text-align: left;
+    padding: 10px;
+    margin: auto;
+    width: 80%;
+}
+
+#boldHeader {
+    border: 1px solid black;
+     
+    padding: 10px;
+    margin: auto;
+    width: 25%;
+}
+
+header {
+    background-color: #ECF0F1;
+    text-align: center;
+    margin: auto;
+    width: 25%;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+

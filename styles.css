@@ -4,16 +4,20 @@
     margin: auto;
     width: 65%;
     justify-content: left;
+    
 }
 
 div {
+    background: rgba(0, 51, 128, 0.596)
     text-align: left;
     padding: 10px;
     margin: auto;
     width: 80%;
+    
 }
 
 #boldHeader {
+    background: rgba(0, 51, 128, 0.596)
     border: 1px solid black;
      
     padding: 10px;
@@ -22,12 +26,34 @@ div {
 }
 
 header {
+    
     background-color: #ECF0F1;
     text-align: center;
     margin: auto;
     width: 25%;
     border: 3px solid black;
     padding: 10px;
+    
+}
+
+h2 {
+    font-family: times, Times New Roman, times-roman, georgia, serif;
+	color: #444;
+	margin: 0;
+	padding: 0px 0px 6px 0px;
+	font-size: 28px;
+	line-height: 44px;
+	letter-spacing: -2px;
+    font-weight: bold;
+    
+
 }
 
 
+body {
+    background-image: url("https://i.imgur.com/afIpEXW.jpg");
+    background-color: #cccccc;
+    height: 3500px; 
+    background-position: center;
+    background-size: cover; 
+   }

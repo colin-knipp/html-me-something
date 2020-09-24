@@ -8,11 +8,22 @@
 }
 
 div {
-    background: rgba(0, 51, 128, 0.596)
+    background: rgba(0, 51, 128, 0.596);
     text-align: left;
     padding: 10px;
     margin: auto;
     width: 80%;
+    height: 100%;
+     /* The image used */
+     background-image: url("https://i.imgur.com/Fwd6hH8.jpg");
+  
+     /* Full height */
+     height: 100%;
+   
+     /* Center and scale the image nicely */
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
     
 }
 
@@ -50,10 +61,7 @@ h2 {
 }
 
 
-body {
-    background-image: url("https://i.imgur.com/afIpEXW.jpg");
-    background-color: #cccccc;
-    height: 3500px; 
-    background-position: center;
-    background-size: cover; 
-   }
+
+.bg {
+   
+  }
